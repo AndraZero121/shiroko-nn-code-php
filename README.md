@@ -50,7 +50,7 @@ git clone https://github.com/yourusername/text-to-ascii.git
 2. Put to your htdocs directory:
 
 ```bash
-C:\Apache24\htdocs / C:\xampp\htdocs
+C:\Apache24\htdocs / C:\xampp\htdocs / c:\laragon\www
 ```
 
 3. Access through your browser:
