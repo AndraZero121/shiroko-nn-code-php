@@ -33,7 +33,7 @@ Each character is prefixed with "Nn" (Shiroko's characteristic expression) and t
 
 ### Built With
 
-- PHP 8.0+
+- PHP 8.2+
 - JavaScript (ES6+)
 - TailwindCSS
 - Font Awesome Icons
@@ -61,7 +61,7 @@ http://localhost/text-to-ascii
 
 ## ⚙️ Requirements
 
-- PHP 8.0 or higher
+- PHP 8.2 or higher
 - Apache web server
 - Modern web browser
 - JavaScript enabled
